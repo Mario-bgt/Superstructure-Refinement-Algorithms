@@ -1,4 +1,4 @@
-# Superstructure-Refinement-Algorithms# Superstructure Refinement Algorithms
+# Superstructure-Refinement-Algorithms
 
 Code developed for a master's thesis on refining candidate low-symmetry ("child") crystal
 structures against single-crystal diffraction data, using symmetry-mode decompositions
